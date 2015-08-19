@@ -11,6 +11,11 @@
 			<result>/hello.jsp</result>
 
 		</action>
+		<action name="world">
+
+			<result>/hello.jsp</result>
+
+		</action>
 	</package>
 
 
